@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @programming-wiz
 - 👀 I’m interested in all sorts of technological stuff
-- 💻 I’m currently learning app development
 
 <!---
 programming-wiz/programming-wiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
